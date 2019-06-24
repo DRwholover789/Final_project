@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Final_Project/Intermediate/Config/CoalescedSourceConfigs/*.ini
+/Final_Project/Intermediate/Config/CoalescedSourceConfigs/*.ini
+/Final_Project/Intermediate/CachedAssetRegistry.bin
+/Final_Project/Saved/AutoScreenshot.png
+/Final_Project/Saved/Autosaves/PackageRestoreData.json
+/Final_Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/Final_Project/Saved/Config/Windows/*.ini
+/Final_Project/Saved/Logs/*.log
