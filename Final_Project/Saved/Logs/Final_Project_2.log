@@ -733,3 +733,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.24-19.50.18:784][957]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/NoamsMap_BuiltData480DAADA432A8E564BFF73BD3D63961A.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Maps/NoamsMap_BuiltData.uasset'
 [2019.06.24-19.50.19:572][993]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/NoamsMapD279653F412B2F8C4875DA8E4035F7BB.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Maps/NoamsMap.umap'
 [2019.06.24-19.50.19:694][993]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/NoamsMap_BuiltDataDCC29AE54DF7E5A9501948B55F70F79C.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Maps/NoamsMap_BuiltData.uasset'
+[2019.06.24-20.00.58:964][147]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.24-20.00.58:979][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.00.58:979][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-20.00.58:979][147]PIE: New page: PIE session: NoamsMap (Jun 24, 2019, 12:00:58 PM)
+[2019.06.24-20.00.58:979][147]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap
+[2019.06.24-20.00.58:990][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010636s)
+[2019.06.24-20.00.58:990][147]LogAIModule: Creating AISystem for world NoamsMap
+[2019.06.24-20.00.58:990][147]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.06.24-20.00.58:990][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/NoamsMap.NoamsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap (0.011376s)
+[2019.06.24-20.00.59:022][147]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.24-20.00.59:030][147]LogInit: FAudioDevice initialized.
+[2019.06.24-20.00.59:061][147]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.24-20.00.59:063][147]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap up for play (max tick rate 60) at 2019.06.24-16.00.59
+[2019.06.24-20.00.59:064][147]LogWorld: Bringing up level for play took: 0.001211
+[2019.06.24-20.00.59:077][147]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap -0.032
+[2019.06.24-20.00.59:077][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.16:201][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.16:202][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.01.16:239][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-20.01.16:239][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.16:264][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.01.16:316][177]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.24-20.01.17:117][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-20.01.36:918][324]BlueprintLog: New page: Compile UI_BP
+[2019.06.24-20.01.37:666][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/UI_BP" FILE="../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Blueprints/UI_BP.uasset" SILENT=true
+[2019.06.24-20.01.37:689][360]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/UI_BP8ABE2A4543859B0D9A1E7491CAC758F9.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Blueprints/UI_BP.uasset'
+[2019.06.24-20.01.42:245][614]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/NoamsMapB03F4CBE47A318E850792CB36BFAC5DB.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Maps/NoamsMap.umap'
+[2019.06.24-20.01.42:368][614]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Saved/NoamsMap_BuiltData318019F947378A0379C6C88B39D5EB7A.tmp' to '../../../../../../Users/iD Student/Desktop/Final_project/Final_Project/Content/FirstPersonBP/Maps/NoamsMap_BuiltData.uasset'
+[2019.06.24-20.01.43:543][684]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.24-20.01.43:566][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.43:566][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-20.01.43:566][684]PIE: New page: PIE session: NoamsMap (Jun 24, 2019, 12:01:43 PM)
+[2019.06.24-20.01.43:566][684]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap
+[2019.06.24-20.01.43:576][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009630s)
+[2019.06.24-20.01.43:576][684]LogAIModule: Creating AISystem for world NoamsMap
+[2019.06.24-20.01.43:577][684]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.06.24-20.01.43:577][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/NoamsMap.NoamsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap (0.010630s)
+[2019.06.24-20.01.43:606][684]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.24-20.01.43:614][684]LogInit: FAudioDevice initialized.
+[2019.06.24-20.01.43:642][684]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.24-20.01.43:644][684]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap up for play (max tick rate 60) at 2019.06.24-16.01.43
+[2019.06.24-20.01.43:644][684]LogWorld: Bringing up level for play took: 0.001125
+[2019.06.24-20.01.43:657][684]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap 0.548
+[2019.06.24-20.01.43:657][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.53:952][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.53:952][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.01.53:999][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-20.01.53:999][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.01.54:026][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.01.54:089][302]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.24-20.07.37:971][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-20.15.12:752][184]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.24-20.15.12:765][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.15.12:765][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-20.15.12:766][184]PIE: New page: PIE session: NoamsMap (Jun 24, 2019, 12:15:12 PM)
+[2019.06.24-20.15.12:766][184]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap
+[2019.06.24-20.15.12:776][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010046s)
+[2019.06.24-20.15.12:776][184]LogAIModule: Creating AISystem for world NoamsMap
+[2019.06.24-20.15.12:776][184]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2019.06.24-20.15.12:776][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/NoamsMap.NoamsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap (0.010759s)
+[2019.06.24-20.15.12:808][184]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.24-20.15.12:816][184]LogInit: FAudioDevice initialized.
+[2019.06.24-20.15.12:844][184]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.24-20.15.12:845][184]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap.NoamsMap up for play (max tick rate 60) at 2019.06.24-16.15.12
+[2019.06.24-20.15.12:846][184]LogWorld: Bringing up level for play took: 0.001181
+[2019.06.24-20.15.12:859][184]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_NoamsMap -0.251
+[2019.06.24-20.15.12:859][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.15.14:853][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.15.14:854][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.15.14:892][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-20.15.14:892][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap' with GeneratedClass '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/NoamsMap.NoamsMap:PersistentLevel.NoamsMap'
+[2019.06.24-20.15.14:924][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-20.15.14:989][304]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.24-20.15.16:389][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
